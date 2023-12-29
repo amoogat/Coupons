@@ -18,7 +18,7 @@ Does having a fuller wallet mean you're more likely to snag that deal? I compare
 
 
 ### Age and Acceptance
-Are younger drivers more adventurous or deal-savvy? I plotted acceptance rates across age groups to uncover who's really seizing those savings.
+Are younger drivers more adventurous or deal-savvy? I plotted acceptance rates across age groups to uncover who's saving more (this shocked me).
 
 ![image1](https://raw.githubusercontent.com/amoogat/Coupons/master/images/age_group_acceptance.png)
 
