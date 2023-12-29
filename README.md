@@ -1,4 +1,6 @@
 # Coupons
+This repo contains an analysis on coupon acceptance rates based on different attributes. 
+
 ## Visualizing the Journey
 Would you detour for a tempting restaurant offer? Does a sunny day increase the likelihood of accepting a coffee shop coupon? What if you had your kids in the car, or it was just you and your partner? These are real situations we explored using our data.
 Each image below is a snapshot, a tidbit of insight into the complex decision-making process of drivers like you and me.
